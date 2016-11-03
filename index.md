@@ -15,6 +15,7 @@ layout: post
 ## 博客平台
 
 这个博客是通过copy [Su Yan's Blog](http://yansu.org/)的模板生成，后期会在做细节修改，如有侵权，请联系本人。。。
+
 原始版本由 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
 
 我博客的源码托管在[Github](https://github.com/cugmax/cugmax.github.io)上，如果有任何改进意见，欢迎讨论。
