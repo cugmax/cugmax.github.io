@@ -8,4 +8,4 @@ description: 跑步生活记录~
 ---
 
 跑步已渐渐成为我生活的一部分，大概也能算是兴趣爱好中不可割舍的那极少一部分之一了。
-http://oizryrz8m.bkt.clouddn.com/maxian-20161105.jpg
+![Running in XianNing](http://oizryrz8m.bkt.clouddn.com/maxian-20161105.jpg)
